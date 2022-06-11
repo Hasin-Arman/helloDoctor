@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934873815537",
+    "project_id": "hello-doctor-b4059",
+    "storage_bucket": "hello-doctor-b4059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934873815537:android:cb66e636aa044fe09b0c50",
+        "android_client_info": {
+          "package_name": "com.example.hello_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934873815537-g7t71hill59c6fr6vb215knak59cno5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyorxuz07kQBLXoDXzE3ROu3uZ3s6Iqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934873815537-g7t71hill59c6fr6vb215knak59cno5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

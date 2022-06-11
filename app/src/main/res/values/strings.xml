@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">hello_doctor</string>
+
+    <string-array name="doctors">
+        <item>
+
+            Dr. Mir Habibur Rahman\n
+              BSc, BDS (Dhaka)\n
+       Oral and Dental Surgeon with Special Interest on Third Molar Surgery, Root Canal Treatment\n
+       Chittagong Medical College and Hospital
+        </item>
+
+        <item>
+            Dr. Khandaker ABM Abdullah Al Hasan\n
+MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology), FMAS (India)\n
+Cancer and Laparoscopic Surgery Specialist\n
+National Institute of Cancer Research and Hospital
+        </item>
+
+        <item>
+
+            Prof. Dr. Mir Mosarraf Hossain\n
+MBBS, DEM (DU), MD (Endocrinology)\n
+Endocrinology (Diabetes, Thyroid and Hormonal Diseases) Specialist\n
+Sir Salimullah Medical College and Mitford Hospital
+        </item>
+
+        <item>
+
+        Dr. Joysree Saha\n
+MBBS (DMC), FCPS (OBGYN)\n
+Gynecology, Obstetrics Specialist and Surgeon\n
+Popular Medical College and Hospital
+        </item>
+
+
+        <item>
+            Dr. Farzana Sharmin Shuvra\n
+MBBS, FCPS (OBGYN)\n
+Advance Training in Laparoscopy and Infertility (India)\n
+Gynecology, Obstetrics, High Risk Pregnancy Specialist and Surgeon\n
+Bangabandhu Sheikh Mujib Medical University Hospital.
+        </item>
+
+        <item>
+            Prof. Dr. Sohely Rahman\n
+MBBS, FCPS (Physical Medicine)\n
+Pain, Arthritis, Paralysis and Rehabilitation Specialist\n
+Dhaka Medical College and Hospital.
+        </item>
+
+        <item>
+            Dr. Ahmed Tanjimul Islam\n
+MBBS, BCS (Health), MSc (Leeds, England), MD (Neuromedicine)\n
+Neuromedicine (Brain, Nerve, Stroke) Specialist\n
+Chittagong 250 Bed General Hospital.
+        </item>
+
+        <item>
+            Prof. Dr. Md. Abdur Rob\n
+MBBS, MS (ORTHO), Fellow, Spine Surgery (USA)\n
+Orthopedics (Bone, Joint, Injury, Accident Trauma) Specialist and Spine Surgeon\n
+National Institute of Traumatology and Orthopedic Rehabilitation
+        </item>
+
+        <item>
+            Dr. Sabrin Farhad\n
+MBBS, FCPS (OBGYN)\n
+Gynecology, Obstetrics Specialist and Laparoscopic Surgeon\n
+Uttara Adhunik Medical College and Hospital
+        </item>
+
+        <item>
+            Prof. Dr. Jesmin Akter\n
+MBBS, MCPS, DGO, FCPS (OBGYN)\n
+Gynecology, Obstetrics Specialist and Laparoscopic Surgeon\n
+Medical College For Women and Hospital
+        </item>
+
+    </string-array>
+</resources>

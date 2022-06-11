@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#38405A"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:src="@drawable/img"
+        ></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello Doctor"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:textColor="#2196F3"
+        ></TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:hint="Email"
+        android:id="@+id/userId"
+        android:textSize="20sp"
+        android:textColorHint="#C9FFFFFF"
+        android:textStyle="italic"
+        android:inputType="text"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        ></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:hint="Password"
+        android:id="@+id/passwordId"
+        android:textColorHint="#C9FFFFFF"
+        android:textSize="20sp"
+        android:inputType="numberPassword"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        ></EditText>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign In"
+        android:id="@+id/loginButton"
+        android:backgroundTint="@color/teal_200"
+        ></Button>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Haven't signed in? Sign up"
+        android:textSize="20sp"
+        android:id="@+id/signUpId"
+        android:textColor="#8BC34A"
+        ></TextView>
+
+
+</LinearLayout>
